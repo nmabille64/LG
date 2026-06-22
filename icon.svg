@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#0a0a0f"/>
+  <circle cx="320" cy="160" r="90" fill="#c8b880" opacity="0.9"/>
+  <circle cx="290" cy="140" r="90" fill="#0a0a0f"/>
+  <circle cx="320" cy="160" r="90" fill="#c8b880" opacity="0.9"/>
+  <circle cx="285" cy="135" r="88" fill="#12121c"/>
+  <text x="256" y="390" font-size="220" text-anchor="middle" fill="#e8e0c8" font-family="serif">🐺</text>
+</svg>
